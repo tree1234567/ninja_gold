@@ -1,0 +1,16 @@
+.box{
+    outline: 2px solid black;
+    display: inline-block;
+    padding: 30px;
+    width: 160px;
+    margin: 3%;
+    text-align: center;
+}
+
+#log{
+    outline: 2px solid black;
+    padding: 15px;
+    height: 400px;
+    width: 600px;
+    overflow: scroll;
+}
